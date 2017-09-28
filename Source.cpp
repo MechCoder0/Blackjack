@@ -26,7 +26,7 @@ private:
 		bool dealt;
 	};
 	deck card[52];
-	int i,count,n;
+	int i,count;
 	double pWins,cWins, games;
 
 	struct hand
